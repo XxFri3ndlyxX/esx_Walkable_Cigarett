@@ -1,4 +1,4 @@
-# esx_walkable_Cigarett
+# esx_Walkable_Cigarett
 
 With this script you can use smoke as an item and your able to walk as well. 
 Press E to cancel
